@@ -11,6 +11,7 @@ public class Main {
 		System.out.println(a + "??!");
 	}
 /*
+	//When used to BufferedReader instead of Scanner
 	public static void main (String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
